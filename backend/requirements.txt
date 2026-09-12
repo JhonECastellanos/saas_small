@@ -1,0 +1,10 @@
+fastapi==0.115.12
+starlette<0.46  # compatibilidad con HTTPBearer
+sqlalchemy==2.0.41
+pydantic==2.11.4
+pydantic-settings==2.9.1
+psycopg2-binary==2.9.10
+PyJWT==2.10.1
+email-validator==2.2.0
+sentry-sdk==2.29.1
+python-multipart==0.0.20
